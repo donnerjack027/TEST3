@@ -1,0 +1,16 @@
+INFO:root:Running test case TestCase_001_address_to_coordinates
+INFO:root:Input params: {'q': 'к702, Сосновая аллея, Savyolki District', 'format': 'xml'}
+INFO:root:Running test case TestCase_001_address_to_coordinates
+INFO:root:Input params: {'q': 'General Staff of the Russian Navy', 'format': 'xml'}
+INFO:root:Running test case TestCase_001_address_to_coordinates
+INFO:root:Input params: {'q': 'Санкт Петербург, Главный штаб ВМФ России', 'format': 'xml'}
+INFO:root:Running test case TestCase_001_address_to_coordinates
+INFO:root:Input params: {'q': '135 pilkington avenue, birmingham', 'format': 'xml'}
+INFO:root:Running test case TestCase_001_address_to_coordinates
+INFO:root:Input params: {'q': 'ул Кирова', 'format': 'xml'}
+INFO:root:Running test case TestCase_002_coordinates_to_address
+INFO:root:Input params: {'format': 'xml', 'lat': 55.9979183, 'lon': 37.1985297885186, 'accept-language': 'english'}
+INFO:root:Running test case TestCase_002_coordinates_to_address
+INFO:root:Input params: {'format': 'xml', 'lat': 59.93818095, 'lon': 30.309233927927, 'accept-language': 'english'}
+INFO:root:Running test case TestCase_002_coordinates_to_address
+INFO:root:Input params: {'format': 'xml', 'lat': 52.5487921, 'lon': -1.8164308339635, 'accept-language': 'english'}
