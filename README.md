@@ -7,4 +7,3 @@
 * requests 2.19.1
 * pytest 3.6.3
 * lxml 4.2.3
-* os.path2 0.0.4
