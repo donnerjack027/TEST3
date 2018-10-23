@@ -1,8 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
+<!--- lat/lon are reference values -->
 	<root>
-		<set address="к702, Сосновая аллея, Savyolki District" standard_lat="55.9870103" standard_lon="37.2310532514072" />
-		<set address="General Staff of the Russian Navy" standard_lat="59.93818095" standard_lon="30.309233927927" />
-		<set address="Санкт Петербург, Главный штаб ВМФ России" standard_lat="59.93818095" standard_lon="30.309233927927" />
-		<set address="135 pilkington avenue, birmingham" standard_lat="52.5487921" standard_lon="-1.8164308339635" />
-		<set address="ул Кирова"  standard_lat="59.2195438" standard_lon="39.8673266" />
+		<set address="к702, Сосновая аллея, Savyolki District" lat="55.9870103" lon="37.2310532514072" />
+		<set address="111111111111111111111111111111111111111" lat="0" lon="0" />
+		<set address="General Staff of the Russian Navy" lat="59.93818095" lon="30.309233927927" />
+		<set address="Санкт Петербург, Главный штаб ВМФ России" lat="59.93818095" lon="30.309233927927" />
+		<set address="135 pilkington avenue, birmingham" lat="52.5487921" lon="-1.8164308339635" />
+		<set address="ул Кирова"  lat="59.2195438" lon="39.8673266" />
 	</root>

@@ -13,7 +13,7 @@ class TestCase_002_coordinates_to_address(ITestCase):
 
     def test_run(self, request_params, Address):
         log.info("Running test case %s" % TestCase_002_coordinates_to_address.__name__)
-        log.info("Input params: %s" % request_params)
+        log.info("Input params: %s " % request_params)
         log.debug("Standart_address: %s" % Address)
         try:
             http_request_name = 'reverse'
